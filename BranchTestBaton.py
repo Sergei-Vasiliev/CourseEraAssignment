@@ -1,0 +1,2 @@
+#batonbaton
+print("Slava Batonu!")
